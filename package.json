@@ -1,0 +1,16 @@
+{
+  "title": "My First Addon Test",
+  "name": "myfirstaddon",
+  "version": "0.0.0",
+  "description": "A very simple firefox addon",
+  "main": "index.js",
+  "author": "Uttam Kumar Roy",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "GPL 2",
+  "keywords": [
+    "jetpack"
+  ]
+}
